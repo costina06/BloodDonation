@@ -1,7 +1,7 @@
 # BloodDonation
-Membri echipa:
->-Dragulescu Costina
->-Ene Loderina-Beatrice
+Membri echipa:<br/>
+>-Dragulescu Costina<br/>
+>-Ene Loderina-Beatrice<br/>
 Prin acest proiect ne-am propus crearea unei aplicatii de gestionare a donatorilor de sange si a beneficiarilor.
 Pentru aceasta aplicatie vom folosi Android Studio utilizand limbajul de programare Java , iar pentru baza de date
 vom folosi Firebase. Senzorul folosit va fi geolocatia .
